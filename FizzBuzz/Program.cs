@@ -21,6 +21,7 @@ namespace FizzBuzz
             {
                 Console.WriteLine(fb.Process(i));
             }
+            Console.ReadLine();
         }
     }
 }
